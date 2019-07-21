@@ -29,7 +29,7 @@ package checkpoint
 
 import (
 	"errors"
-	par "github.com/vmware/vmware-go-kcl/clientlibrary/partition"
+	par "github.com/foxbroadcasting/vmware-go-kcl/clientlibrary/partition"
 )
 
 const (
